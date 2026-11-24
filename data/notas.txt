@@ -1,0 +1,4 @@
+# Exemplo de arquivo de notas para o leitor.cpp
+7 9 5
+10, 8, 6
+9
